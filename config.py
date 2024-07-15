@@ -12,4 +12,4 @@ GPT_MODEL = 'yandexgpt-lite'
 FOLDER_ID = 'b1gb1o17aj4e22s1c3m4'
 URL = "https://llm.api.cloud.yandex.net/foundationModels/v1/completion"
 
-TOKEN = "7035505529:AAH_EMeuSTp1-V3mygNUHEh3dWKwebU8SvE"
+TOKEN = " "
